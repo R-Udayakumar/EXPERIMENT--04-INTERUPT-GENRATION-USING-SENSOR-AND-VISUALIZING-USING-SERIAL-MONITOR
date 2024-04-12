@@ -118,7 +118,7 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
   
 
 ## STM 32 CUBE PROGRAM :
-```
+```C
 #include "main.h"
 #include "stdio.h"
 #if defined(__ICCARM__) || defined(__ARMCC_VERSION)
